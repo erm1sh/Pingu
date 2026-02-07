@@ -1,3 +1,5 @@
+![Pingu Banner](resources/pingu-banner.png)
+
 # Pingu – ICMP Host Monitor
 
 Production-ready Python desktop app that monitors a user-defined list of IPs/hosts by **ICMP ping** at configurable intervals. Windows-first, cross-platform where possible.
