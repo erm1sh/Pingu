@@ -49,7 +49,7 @@ Pingu/
 
 ```bash
 # From project root
-cd c:\Users\Eren\Desktop\Pingu
+cd yourpath
 
 # Create venv (recommended)
 python -m venv .venv
